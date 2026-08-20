@@ -1,0 +1,541 @@
+month,code,company,group,revenue_ntd_k,mops_name
+2019-01,3264,Ardentec,test,613222.0,欣銓
+2019-01,2303,UMC,foundry,11795477.0,聯電
+2019-01,2330,TSMC,foundry,78093827.0,台積電
+2019-01,2449,King Yuan Electronics,test,1809595.0,京元電子
+2019-01,3711,ASE Technology Holding,osat,33055773.0,日月光投控
+2019-01,6257,Sigurd Microelectronics,test,614340.0,矽格
+2019-02,3264,Ardentec,test,523644.0,欣銓
+2019-02,2303,UMC,foundry,10461743.0,聯電
+2019-02,2330,TSMC,foundry,60889055.0,台積電
+2019-02,2449,King Yuan Electronics,test,1610631.0,京元電子
+2019-02,3711,ASE Technology Holding,osat,26239644.0,日月光投控
+2019-02,6257,Sigurd Microelectronics,test,576134.0,矽格
+2019-03,3264,Ardentec,test,637007.0,欣銓
+2019-03,2303,UMC,foundry,10325739.0,聯電
+2019-03,2330,TSMC,foundry,79721587.0,台積電
+2019-03,2449,King Yuan Electronics,test,1839898.0,京元電子
+2019-03,3711,ASE Technology Holding,osat,29566029.0,日月光投控
+2019-03,6257,Sigurd Microelectronics,test,829375.0,矽格
+2019-04,3264,Ardentec,test,631927.0,欣銓
+2019-04,2303,UMC,foundry,12082275.0,聯電
+2019-04,2330,TSMC,foundry,74693615.0,台積電
+2019-04,2449,King Yuan Electronics,test,1920944.0,京元電子
+2019-04,3711,ASE Technology Holding,osat,29051464.0,日月光投控
+2019-04,6257,Sigurd Microelectronics,test,668422.0,矽格
+2019-05,3264,Ardentec,test,668487.0,欣銓
+2019-05,2303,UMC,foundry,12242267.0,聯電
+2019-05,2330,TSMC,foundry,80436931.0,台積電
+2019-05,2449,King Yuan Electronics,test,2064673.0,京元電子
+2019-05,3711,ASE Technology Holding,osat,30118129.0,日月光投控
+2019-05,6257,Sigurd Microelectronics,test,744494.0,矽格
+2019-06,3264,Ardentec,test,680128.0,欣銓
+2019-06,2303,UMC,foundry,11706642.0,聯電
+2019-06,2330,TSMC,foundry,85867929.0,台積電
+2019-06,2449,King Yuan Electronics,test,2105344.0,京元電子
+2019-06,3711,ASE Technology Holding,osat,31571316.0,日月光投控
+2019-06,6257,Sigurd Microelectronics,test,801286.0,矽格
+2019-07,3264,Ardentec,test,705884.0,欣銓
+2019-07,2303,UMC,foundry,13728148.0,聯電
+2019-07,2330,TSMC,foundry,84757724.0,台積電
+2019-07,2449,King Yuan Electronics,test,2334740.0,京元電子
+2019-07,3711,ASE Technology Holding,osat,36376356.0,日月光投控
+2019-07,6257,Sigurd Microelectronics,test,855969.0,矽格
+2019-08,3264,Ardentec,test,724403.0,欣銓
+2019-08,2303,UMC,foundry,13184069.0,聯電
+2019-08,2330,TSMC,foundry,106117619.0,台積電
+2019-08,2449,King Yuan Electronics,test,2405477.0,京元電子
+2019-08,3711,ASE Technology Holding,osat,40039028.0,日月光投控
+2019-08,6257,Sigurd Microelectronics,test,861883.0,矽格
+2019-09,3264,Ardentec,test,723781.0,欣銓
+2019-09,2303,UMC,foundry,10826223.0,聯電
+2019-09,2330,TSMC,foundry,102170096.0,台積電
+2019-09,2449,King Yuan Electronics,test,2300996.0,京元電子
+2019-09,3711,ASE Technology Holding,osat,41141924.0,日月光投控
+2019-09,6257,Sigurd Microelectronics,test,813996.0,矽格
+2019-10,3264,Ardentec,test,716205.0,欣銓
+2019-10,2303,UMC,foundry,14587122.0,聯電
+2019-10,2330,TSMC,foundry,106039531.0,台積電
+2019-10,2449,King Yuan Electronics,test,2370821.0,京元電子
+2019-10,3711,ASE Technology Holding,osat,38784584.0,日月光投控
+2019-10,6257,Sigurd Microelectronics,test,1477233.0,矽格
+2019-11,3264,Ardentec,test,708353.0,欣銓
+2019-11,2303,UMC,foundry,13891904.0,聯電
+2019-11,2330,TSMC,foundry,107884396.0,台積電
+2019-11,2449,King Yuan Electronics,test,2377107.0,京元電子
+2019-11,3711,ASE Technology Holding,osat,38456363.0,日月光投控
+2019-11,6257,Sigurd Microelectronics,test,851499.0,矽格
+2019-12,3264,Ardentec,test,717098.0,欣銓
+2019-12,2303,UMC,foundry,13370032.0,聯電
+2019-12,2330,TSMC,foundry,103313138.0,台積電
+2019-12,2449,King Yuan Electronics,test,2399211.0,京元電子
+2019-12,3711,ASE Technology Holding,osat,38781574.0,日月光投控
+2019-12,6257,Sigurd Microelectronics,test,951988.0,矽格
+2020-01,3264,Ardentec,test,657768.0,欣銓
+2020-01,2303,UMC,foundry,14091018.0,聯電
+2020-01,2330,TSMC,foundry,103683135.0,台積電
+2020-01,2449,King Yuan Electronics,test,2286708.0,京元電子
+2020-01,3711,ASE Technology Holding,osat,31337455.0,日月光投控
+2020-01,6257,Sigurd Microelectronics,test,849748.0,矽格
+2020-02,3264,Ardentec,test,694729.0,欣銓
+2020-02,2303,UMC,foundry,13606421.0,聯電
+2020-02,2330,TSMC,foundry,93394449.0,台積電
+2020-02,2449,King Yuan Electronics,test,2223870.0,京元電子
+2020-02,3711,ASE Technology Holding,osat,28135554.0,日月光投控
+2020-02,6257,Sigurd Microelectronics,test,851584.0,矽格
+2020-03,3264,Ardentec,test,726326.0,欣銓
+2020-03,2303,UMC,foundry,14570408.0,聯電
+2020-03,2330,TSMC,foundry,113519599.0,台積電
+2020-03,2449,King Yuan Electronics,test,2490576.0,京元電子
+2020-03,3711,ASE Technology Holding,osat,37884146.0,日月光投控
+2020-03,6257,Sigurd Microelectronics,test,1015681.0,矽格
+2020-04,3264,Ardentec,test,733262.0,欣銓
+2020-04,2303,UMC,foundry,15059189.0,聯電
+2020-04,2330,TSMC,foundry,96001572.0,台積電
+2020-04,2449,King Yuan Electronics,test,2584819.0,京元電子
+2020-04,3711,ASE Technology Holding,osat,35303249.0,日月光投控
+2020-04,6257,Sigurd Microelectronics,test,964345.0,矽格
+2020-05,3264,Ardentec,test,751770.0,欣銓
+2020-05,2303,UMC,foundry,14745577.0,聯電
+2020-05,2330,TSMC,foundry,93819010.0,台積電
+2020-05,2449,King Yuan Electronics,test,2584325.0,京元電子
+2020-05,3711,ASE Technology Holding,osat,35788001.0,日月光投控
+2020-05,6257,Sigurd Microelectronics,test,959984.0,矽格
+2020-06,3264,Ardentec,test,790094.0,欣銓
+2020-06,2303,UMC,foundry,14581494.0,聯電
+2020-06,2330,TSMC,foundry,120877785.0,台積電
+2020-06,2449,King Yuan Electronics,test,2489358.0,京元電子
+2020-06,3711,ASE Technology Holding,osat,36457523.0,日月光投控
+2020-06,6257,Sigurd Microelectronics,test,974670.0,矽格
+2020-07,3264,Ardentec,test,819226.0,欣銓
+2020-07,2303,UMC,foundry,15494823.0,聯電
+2020-07,2330,TSMC,foundry,105963468.0,台積電
+2020-07,2449,King Yuan Electronics,test,2471346.0,京元電子
+2020-07,3711,ASE Technology Holding,osat,37325504.0,日月光投控
+2020-07,6257,Sigurd Microelectronics,test,1023095.0,矽格
+2020-08,3264,Ardentec,test,840116.0,欣銓
+2020-08,2303,UMC,foundry,14841818.0,聯電
+2020-08,2330,TSMC,foundry,122878244.0,台積電
+2020-08,2449,King Yuan Electronics,test,2501503.0,京元電子
+2020-08,3711,ASE Technology Holding,osat,41944147.0,日月光投控
+2020-08,6257,Sigurd Microelectronics,test,1127003.0,矽格
+2020-09,3264,Ardentec,test,864841.0,欣銓
+2020-09,2303,UMC,foundry,14533813.0,聯電
+2020-09,2330,TSMC,foundry,127584492.0,台積電
+2020-09,2449,King Yuan Electronics,test,2389741.0,京元電子
+2020-09,3711,ASE Technology Holding,osat,43925748.0,日月光投控
+2020-09,6257,Sigurd Microelectronics,test,1146516.0,矽格
+2020-10,3264,Ardentec,test,902314.0,欣銓
+2020-10,2303,UMC,foundry,15282825.0,聯電
+2020-10,2330,TSMC,foundry,119302707.0,台積電
+2020-10,2449,King Yuan Electronics,test,2234771.0,京元電子
+2020-10,3711,ASE Technology Holding,osat,47914576.0,日月光投控
+2020-10,6257,Sigurd Microelectronics,test,1154534.0,矽格
+2020-11,3264,Ardentec,test,931248.0,欣銓
+2020-11,2303,UMC,foundry,14725559.0,聯電
+2020-11,2330,TSMC,foundry,124865438.0,台積電
+2020-11,2449,King Yuan Electronics,test,2332937.0,京元電子
+2020-11,3711,ASE Technology Holding,osat,50664618.0,日月光投控
+2020-11,6257,Sigurd Microelectronics,test,1151112.0,矽格
+2020-12,3264,Ardentec,test,963255.0,欣銓
+2020-12,2303,UMC,foundry,15287969.0,聯電
+2020-12,2330,TSMC,foundry,117364912.0,台積電
+2020-12,2449,King Yuan Electronics,test,2369350.0,京元電子
+2020-12,3711,ASE Technology Holding,osat,50298189.0,日月光投控
+2020-12,6257,Sigurd Microelectronics,test,1210277.0,矽格
+2021-01,3264,Ardentec,test,919410.0,欣銓
+2021-01,2303,UMC,foundry,15529559.0,聯電
+2021-01,2330,TSMC,foundry,126749152.0,台積電
+2021-01,2449,King Yuan Electronics,test,2559791.0,京元電子
+2021-01,3711,ASE Technology Holding,osat,40847914.0,日月光投控
+2021-01,6257,Sigurd Microelectronics,test,1197663.0,矽格
+2021-02,3264,Ardentec,test,826208.0,欣銓
+2021-02,2303,UMC,foundry,14947898.0,聯電
+2021-02,2330,TSMC,foundry,106533690.0,台積電
+2021-02,2449,King Yuan Electronics,test,2405002.0,京元電子
+2021-02,3711,ASE Technology Holding,osat,36620343.0,日月光投控
+2021-02,6257,Sigurd Microelectronics,test,1109952.0,矽格
+2021-03,3264,Ardentec,test,877319.0,欣銓
+2021-03,2303,UMC,foundry,16619555.0,聯電
+2021-03,2330,TSMC,foundry,129127388.0,台積電
+2021-03,2449,King Yuan Electronics,test,2666096.0,京元電子
+2021-03,3711,ASE Technology Holding,osat,42001527.0,日月光投控
+2021-03,6257,Sigurd Microelectronics,test,1196762.0,矽格
+2021-04,3264,Ardentec,test,941468.0,欣銓
+2021-04,2303,UMC,foundry,16382058.0,聯電
+2021-04,2330,TSMC,foundry,111314794.0,台積電
+2021-04,2449,King Yuan Electronics,test,2757602.0,京元電子
+2021-04,3711,ASE Technology Holding,osat,41333449.0,日月光投控
+2021-04,6257,Sigurd Microelectronics,test,1350187.0,矽格
+2021-05,3264,Ardentec,test,945400.0,欣銓
+2021-05,2303,UMC,foundry,17189070.0,聯電
+2021-05,2330,TSMC,foundry,112359668.0,台積電
+2021-05,2449,King Yuan Electronics,test,2861258.0,京元電子
+2021-05,3711,ASE Technology Holding,osat,42267016.0,日月光投控
+2021-05,6257,Sigurd Microelectronics,test,1408402.0,矽格
+2021-06,3264,Ardentec,test,986336.0,欣銓
+2021-06,2303,UMC,foundry,17336613.0,聯電
+2021-06,2330,TSMC,foundry,148470660.0,台積電
+2021-06,2449,King Yuan Electronics,test,1978466.0,京元電子
+2021-06,3711,ASE Technology Holding,osat,43325882.0,日月光投控
+2021-06,6257,Sigurd Microelectronics,test,1446778.0,矽格
+2021-07,3264,Ardentec,test,1069812.0,欣銓
+2021-07,2303,UMC,foundry,18366122.0,聯電
+2021-07,2330,TSMC,foundry,124557799.0,台積電
+2021-07,2449,King Yuan Electronics,test,2957152.0,京元電子
+2021-07,3711,ASE Technology Holding,osat,46479676.0,日月光投控
+2021-07,6257,Sigurd Microelectronics,test,1563909.0,矽格
+2021-08,3264,Ardentec,test,1134672.0,欣銓
+2021-08,2303,UMC,foundry,18789991.0,聯電
+2021-08,2330,TSMC,foundry,137427162.0,台積電
+2021-08,2449,King Yuan Electronics,test,3044565.0,京元電子
+2021-08,3711,ASE Technology Holding,osat,50449730.0,日月光投控
+2021-08,6257,Sigurd Microelectronics,test,1589943.0,矽格
+2021-09,3264,Ardentec,test,1075287.0,欣銓
+2021-09,2303,UMC,foundry,18750564.0,聯電
+2021-09,2330,TSMC,foundry,152685418.0,台積電
+2021-09,2449,King Yuan Electronics,test,2995305.0,京元電子
+2021-09,3711,ASE Technology Holding,osat,53735410.0,日月光投控
+2021-09,6257,Sigurd Microelectronics,test,1526649.0,矽格
+2021-10,3264,Ardentec,test,1059922.0,欣銓
+2021-10,2303,UMC,foundry,19158585.0,聯電
+2021-10,2330,TSMC,foundry,134539477.0,台積電
+2021-10,2449,King Yuan Electronics,test,3068793.0,京元電子
+2021-10,3711,ASE Technology Holding,osat,52748353.0,日月光投控
+2021-10,6257,Sigurd Microelectronics,test,1445854.0,矽格
+2021-11,3264,Ardentec,test,1048297.0,欣銓
+2021-11,2303,UMC,foundry,19661423.0,聯電
+2021-11,2330,TSMC,foundry,148267599.0,台積電
+2021-11,2449,King Yuan Electronics,test,3194064.0,京元電子
+2021-11,3711,ASE Technology Holding,osat,60522891.0,日月光投控
+2021-11,6257,Sigurd Microelectronics,test,1326575.0,矽格
+2021-12,3264,Ardentec,test,1041740.0,欣銓
+2021-12,2303,UMC,foundry,20279580.0,聯電
+2021-12,2330,TSMC,foundry,155382230.0,台積電
+2021-12,2449,King Yuan Electronics,test,3271294.0,京元電子
+2021-12,3711,ASE Technology Holding,osat,59664942.0,日月光投控
+2021-12,6257,Sigurd Microelectronics,test,1518590.0,矽格
+2022-01,3264,Ardentec,test,1036755.0,欣銓
+2022-01,2303,UMC,foundry,20472766.0,聯電
+2022-01,2330,TSMC,foundry,172176110.0,台積電
+2022-01,2449,King Yuan Electronics,test,3089213.0,京元電子
+2022-01,3711,ASE Technology Holding,osat,48573947.0,日月光投控
+2022-01,6257,Sigurd Microelectronics,test,1448844.0,矽格
+2022-02,3264,Ardentec,test,961432.0,欣銓
+2022-02,2303,UMC,foundry,20809602.0,聯電
+2022-02,2330,TSMC,foundry,146933238.0,台積電
+2022-02,2449,King Yuan Electronics,test,2605989.0,京元電子
+2022-02,3711,ASE Technology Holding,osat,43830549.0,日月光投控
+2022-02,6257,Sigurd Microelectronics,test,1439260.0,矽格
+2022-03,3264,Ardentec,test,1106979.0,欣銓
+2022-03,2303,UMC,foundry,22140452.0,聯電
+2022-03,2330,TSMC,foundry,171966525.0,台積電
+2022-03,2449,King Yuan Electronics,test,3288635.0,京元電子
+2022-03,3711,ASE Technology Holding,osat,51986331.0,日月光投控
+2022-03,6257,Sigurd Microelectronics,test,1731432.0,矽格
+2022-04,3264,Ardentec,test,1119775.0,欣銓
+2022-04,2303,UMC,foundry,22796461.0,聯電
+2022-04,2330,TSMC,foundry,172561382.0,台積電
+2022-04,2449,King Yuan Electronics,test,3381747.0,京元電子
+2022-04,3711,ASE Technology Holding,osat,48642595.0,日月光投控
+2022-04,6257,Sigurd Microelectronics,test,1646936.0,矽格
+2022-05,3264,Ardentec,test,1202420.0,欣銓
+2022-05,2303,UMC,foundry,24433030.0,聯電
+2022-05,2330,TSMC,foundry,185705425.0,台積電
+2022-05,2449,King Yuan Electronics,test,3314909.0,京元電子
+2022-05,3711,ASE Technology Holding,osat,53798666.0,日月光投控
+2022-05,6257,Sigurd Microelectronics,test,1751949.0,矽格
+2022-06,3264,Ardentec,test,1266145.0,欣銓
+2022-06,2303,UMC,foundry,24825649.0,聯電
+2022-06,2330,TSMC,foundry,175874001.0,台積電
+2022-06,2449,King Yuan Electronics,test,3231605.0,京元電子
+2022-06,3711,ASE Technology Holding,osat,57997759.0,日月光投控
+2022-06,6257,Sigurd Microelectronics,test,1755410.0,矽格
+2022-07,3264,Ardentec,test,1310146.0,欣銓
+2022-07,2303,UMC,foundry,24826685.0,聯電
+2022-07,2330,TSMC,foundry,186762689.0,台積電
+2022-07,2449,King Yuan Electronics,test,3196133.0,京元電子
+2022-07,3711,ASE Technology Holding,osat,58167105.0,日月光投控
+2022-07,6257,Sigurd Microelectronics,test,1657522.0,矽格
+2022-08,3264,Ardentec,test,1330859.0,欣銓
+2022-08,2303,UMC,foundry,25346076.0,聯電
+2022-08,2330,TSMC,foundry,218132391.0,台積電
+2022-08,2449,King Yuan Electronics,test,2891833.0,京元電子
+2022-08,3711,ASE Technology Holding,osat,63806883.0,日月光投控
+2022-08,6257,Sigurd Microelectronics,test,1563234.0,矽格
+2022-09,3264,Ardentec,test,1334246.0,欣銓
+2022-09,2303,UMC,foundry,25218828.0,聯電
+2022-09,2330,TSMC,foundry,208247663.0,台積電
+2022-09,2449,King Yuan Electronics,test,2932369.0,京元電子
+2022-09,3711,ASE Technology Holding,osat,66651569.0,日月光投控
+2022-09,6257,Sigurd Microelectronics,test,1563149.0,矽格
+2022-10,3264,Ardentec,test,1320161.0,欣銓
+2022-10,2303,UMC,foundry,24344264.0,聯電
+2022-10,2330,TSMC,foundry,210265633.0,台積電
+2022-10,2449,King Yuan Electronics,test,3038915.0,京元電子
+2022-10,3711,ASE Technology Holding,osat,64171459.0,日月光投控
+2022-10,6257,Sigurd Microelectronics,test,1409759.0,矽格
+2022-11,3264,Ardentec,test,1274882.0,欣銓
+2022-11,2303,UMC,foundry,22545442.0,聯電
+2022-11,2330,TSMC,foundry,222705993.0,台積電
+2022-11,2449,King Yuan Electronics,test,2877778.0,京元電子
+2022-11,3711,ASE Technology Holding,osat,60106891.0,日月光投控
+2022-11,6257,Sigurd Microelectronics,test,1391426.0,矽格
+2022-12,3264,Ardentec,test,1235355.0,欣銓
+2022-12,2303,UMC,foundry,20946009.0,聯電
+2022-12,2330,TSMC,foundry,192560242.0,台積電
+2022-12,2449,King Yuan Electronics,test,2932870.0,京元電子
+2022-12,3711,ASE Technology Holding,osat,53138889.0,日月光投控
+2022-12,6257,Sigurd Microelectronics,test,1335424.0,矽格
+2023-01,3264,Ardentec,test,1151077.0,欣銓
+2023-01,2303,UMC,foundry,19589515.0,聯電
+2023-01,2330,TSMC,foundry,200050544.0,台積電
+2023-01,2449,King Yuan Electronics,test,2564123.0,京元電子
+2023-01,3711,ASE Technology Holding,osat,45131358.0,日月光投控
+2023-01,6257,Sigurd Microelectronics,test,1176589.0,矽格
+2023-02,3264,Ardentec,test,1055430.0,欣銓
+2023-02,2303,UMC,foundry,16931079.0,聯電
+2023-02,2330,TSMC,foundry,163174097.0,台積電
+2023-02,2449,King Yuan Electronics,test,2497803.0,京元電子
+2023-02,3711,ASE Technology Holding,osat,39984571.0,日月光投控
+2023-02,6257,Sigurd Microelectronics,test,1169593.0,矽格
+2023-03,3264,Ardentec,test,1138824.0,欣銓
+2023-03,2303,UMC,foundry,17688853.0,聯電
+2023-03,2330,TSMC,foundry,145408332.0,台積電
+2023-03,2449,King Yuan Electronics,test,2702526.0,京元電子
+2023-03,3711,ASE Technology Holding,osat,45775144.0,日月光投控
+2023-03,6257,Sigurd Microelectronics,test,1270862.0,矽格
+2023-04,3264,Ardentec,test,1068611.0,欣銓
+2023-04,2303,UMC,foundry,18461436.0,聯電
+2023-04,2330,TSMC,foundry,147899735.0,台積電
+2023-04,2449,King Yuan Electronics,test,2612206.0,京元電子
+2023-04,3711,ASE Technology Holding,osat,43314938.0,日月光投控
+2023-04,6257,Sigurd Microelectronics,test,1198504.0,矽格
+2023-05,3264,Ardentec,test,1155412.0,欣銓
+2023-05,2303,UMC,foundry,18778488.0,聯電
+2023-05,2330,TSMC,foundry,176537345.0,台積電
+2023-05,2449,King Yuan Electronics,test,2755415.0,京元電子
+2023-05,3711,ASE Technology Holding,osat,46238791.0,日月光投控
+2023-05,6257,Sigurd Microelectronics,test,1211437.0,矽格
+2023-06,3264,Ardentec,test,1179402.0,欣銓
+2023-06,2303,UMC,foundry,19056484.0,聯電
+2023-06,2330,TSMC,foundry,156404174.0,台積電
+2023-06,2449,King Yuan Electronics,test,2799687.0,京元電子
+2023-06,3711,ASE Technology Holding,osat,46721623.0,日月光投控
+2023-06,6257,Sigurd Microelectronics,test,1305793.0,矽格
+2023-07,3264,Ardentec,test,1169190.0,欣銓
+2023-07,2303,UMC,foundry,19063918.0,聯電
+2023-07,2330,TSMC,foundry,177616220.0,台積電
+2023-07,2449,King Yuan Electronics,test,2855724.0,京元電子
+2023-07,3711,ASE Technology Holding,osat,48353336.0,日月光投控
+2023-07,6257,Sigurd Microelectronics,test,1386095.0,矽格
+2023-08,3264,Ardentec,test,1310108.0,欣銓
+2023-08,2303,UMC,foundry,18952011.0,聯電
+2023-08,2330,TSMC,foundry,188686256.0,台積電
+2023-08,2449,King Yuan Electronics,test,2879079.0,京元電子
+2023-08,3711,ASE Technology Holding,osat,52278801.0,日月光投控
+2023-08,6257,Sigurd Microelectronics,test,1362237.0,矽格
+2023-09,3264,Ardentec,test,1281271.0,欣銓
+2023-09,2303,UMC,foundry,19052938.0,聯電
+2023-09,2330,TSMC,foundry,180430282.0,台積電
+2023-09,2449,King Yuan Electronics,test,2858905.0,京元電子
+2023-09,3711,ASE Technology Holding,osat,53534708.0,日月光投控
+2023-09,6257,Sigurd Microelectronics,test,1384822.0,矽格
+2023-10,3264,Ardentec,test,1289507.0,欣銓
+2023-10,2303,UMC,foundry,19191382.0,聯電
+2023-10,2330,TSMC,foundry,243202811.0,台積電
+2023-10,2449,King Yuan Electronics,test,2878307.0,京元電子
+2023-10,3711,ASE Technology Holding,osat,56166613.0,日月光投控
+2023-10,6257,Sigurd Microelectronics,test,1351925.0,矽格
+2023-11,3264,Ardentec,test,1186815.0,欣銓
+2023-11,2303,UMC,foundry,18787670.0,聯電
+2023-11,2330,TSMC,foundry,206026179.0,台積電
+2023-11,2449,King Yuan Electronics,test,2844155.0,京元電子
+2023-11,3711,ASE Technology Holding,osat,54509085.0,日月光投控
+2023-11,6257,Sigurd Microelectronics,test,1313460.0,矽格
+2023-12,3264,Ardentec,test,1066587.0,欣銓
+2023-12,2303,UMC,foundry,16979226.0,聯電
+2023-12,2330,TSMC,foundry,176299866.0,台積電
+2023-12,2449,King Yuan Electronics,test,2777377.0,京元電子
+2023-12,3711,ASE Technology Holding,osat,49905503.0,日月光投控
+2023-12,6257,Sigurd Microelectronics,test,1348184.0,矽格
+2024-01,3264,Ardentec,test,1073417.0,欣銓
+2024-01,2303,UMC,foundry,19013697.0,聯電
+2024-01,2330,TSMC,foundry,215785127.0,台積電
+2024-01,2449,King Yuan Electronics,test,2807177.0,京元電子
+2024-01,3711,ASE Technology Holding,osat,47390354.0,日月光投控
+2024-01,6257,Sigurd Microelectronics,test,1384814.0,矽格
+2024-02,3264,Ardentec,test,1066929.0,欣銓
+2024-02,2303,UMC,foundry,17451268.0,聯電
+2024-02,2330,TSMC,foundry,181648270.0,台積電
+2024-02,2449,King Yuan Electronics,test,2511124.0,京元電子
+2024-02,3711,ASE Technology Holding,osat,39751076.0,日月光投控
+2024-02,6257,Sigurd Microelectronics,test,1316419.0,矽格
+2024-03,3264,Ardentec,test,1127220.0,欣銓
+2024-03,2303,UMC,foundry,18167134.0,聯電
+2024-03,2330,TSMC,foundry,195210804.0,台積電
+2024-03,2449,King Yuan Electronics,test,2896417.0,京元電子
+2024-03,3711,ASE Technology Holding,osat,45661425.0,日月光投控
+2024-03,6257,Sigurd Microelectronics,test,1460709.0,矽格
+2024-04,3264,Ardentec,test,1070960.0,欣銓
+2024-04,2303,UMC,foundry,19741391.0,聯電
+2024-04,2330,TSMC,foundry,236021112.0,台積電
+2024-04,2449,King Yuan Electronics,test,2078786.0,京元電子
+2024-04,3711,ASE Technology Holding,osat,45819887.0,日月光投控
+2024-04,6257,Sigurd Microelectronics,test,1500997.0,矽格
+2024-05,3264,Ardentec,test,1141778.0,欣銓
+2024-05,2303,UMC,foundry,19509486.0,聯電
+2024-05,2330,TSMC,foundry,229620372.0,台積電
+2024-05,2449,King Yuan Electronics,test,2217435.0,京元電子
+2024-05,3711,ASE Technology Holding,osat,47492772.0,日月光投控
+2024-05,6257,Sigurd Microelectronics,test,1557869.0,矽格
+2024-06,3264,Ardentec,test,1094429.0,欣銓
+2024-06,2303,UMC,foundry,17548413.0,聯電
+2024-06,2330,TSMC,foundry,207868693.0,台積電
+2024-06,2449,King Yuan Electronics,test,2246985.0,京元電子
+2024-06,3711,ASE Technology Holding,osat,46925404.0,日月光投控
+2024-06,6257,Sigurd Microelectronics,test,1489723.0,矽格
+2024-07,3264,Ardentec,test,1165008.0,欣銓
+2024-07,2303,UMC,foundry,20896877.0,聯電
+2024-07,2330,TSMC,foundry,256953058.0,台積電
+2024-07,2449,King Yuan Electronics,test,2344622.0,京元電子
+2024-07,3711,ASE Technology Holding,osat,51595954.0,日月光投控
+2024-07,6257,Sigurd Microelectronics,test,1494445.0,矽格
+2024-08,3264,Ardentec,test,1133419.0,欣銓
+2024-08,2303,UMC,foundry,20645494.0,聯電
+2024-08,2330,TSMC,foundry,250866368.0,台積電
+2024-08,2449,King Yuan Electronics,test,2351067.0,京元電子
+2024-08,3711,ASE Technology Holding,osat,52929761.0,日月光投控
+2024-08,6257,Sigurd Microelectronics,test,1510771.0,矽格
+2024-09,3264,Ardentec,test,1070760.0,欣銓
+2024-09,2303,UMC,foundry,18942714.0,聯電
+2024-09,2330,TSMC,foundry,251872717.0,台積電
+2024-09,2449,King Yuan Electronics,test,2343053.0,京元電子
+2024-09,3711,ASE Technology Holding,osat,55579391.0,日月光投控
+2024-09,6257,Sigurd Microelectronics,test,1583058.0,矽格
+2024-10,3264,Ardentec,test,1071077.0,欣銓
+2024-10,2303,UMC,foundry,21371110.0,聯電
+2024-10,2330,TSMC,foundry,314239713.0,台積電
+2024-10,2449,King Yuan Electronics,test,2410546.0,京元電子
+2024-10,3711,ASE Technology Holding,osat,56425583.0,日月光投控
+2024-10,6257,Sigurd Microelectronics,test,1680008.0,矽格
+2024-11,3264,Ardentec,test,1025844.0,欣銓
+2024-11,2303,UMC,foundry,20049182.0,聯電
+2024-11,2330,TSMC,foundry,276058358.0,台積電
+2024-11,2449,King Yuan Electronics,test,2440215.0,京元電子
+2024-11,3711,ASE Technology Holding,osat,52933333.0,日月光投控
+2024-11,6257,Sigurd Microelectronics,test,1627323.0,矽格
+2024-12,3264,Ardentec,test,1059751.0,欣銓
+2024-12,2303,UMC,foundry,18965818.0,聯電
+2024-12,2330,TSMC,foundry,278163107.0,台積電
+2024-12,2449,King Yuan Electronics,test,2446149.0,京元電子
+2024-12,3711,ASE Technology Holding,osat,52904645.0,日月光投控
+2024-12,6257,Sigurd Microelectronics,test,1612008.0,矽格
+2025-01,3264,Ardentec,test,1063717.0,欣銓
+2025-01,2303,UMC,foundry,19806795.0,聯電
+2025-01,2330,TSMC,foundry,293288038.0,台積電
+2025-01,2449,King Yuan Electronics,test,2384946.0,京元電子
+2025-01,3711,ASE Technology Holding,osat,49444261.0,日月光投控
+2025-01,6257,Sigurd Microelectronics,test,1609688.0,矽格
+2025-02,3264,Ardentec,test,1029880.0,欣銓
+2025-02,2303,UMC,foundry,18193515.0,聯電
+2025-02,2330,TSMC,foundry,260008796.0,台積電
+2025-02,2449,King Yuan Electronics,test,2286169.0,京元電子
+2025-02,3711,ASE Technology Holding,osat,44960788.0,日月光投控
+2025-02,6257,Sigurd Microelectronics,test,1483705.0,矽格
+2025-03,3264,Ardentec,test,1119130.0,欣銓
+2025-03,2303,UMC,foundry,19858647.0,聯電
+2025-03,2330,TSMC,foundry,285956830.0,台積電
+2025-03,2449,King Yuan Electronics,test,2644375.0,京元電子
+2025-03,3711,ASE Technology Holding,osat,53748213.0,日月光投控
+2025-03,6257,Sigurd Microelectronics,test,1591418.0,矽格
+2025-04,3264,Ardentec,test,1145450.0,欣銓
+2025-04,2303,UMC,foundry,20454530.0,聯電
+2025-04,2330,TSMC,foundry,349566940.0,台積電
+2025-04,2449,King Yuan Electronics,test,2781758.0,京元電子
+2025-04,3711,ASE Technology Holding,osat,52210767.0,日月光投控
+2025-04,6257,Sigurd Microelectronics,test,1562380.0,矽格
+2025-05,3264,Ardentec,test,1141608.0,欣銓
+2025-05,2303,UMC,foundry,19480057.0,聯電
+2025-05,2330,TSMC,foundry,320515951.0,台積電
+2025-05,2449,King Yuan Electronics,test,2764705.0,京元電子
+2025-05,3711,ASE Technology Holding,osat,49026935.0,日月光投控
+2025-05,6257,Sigurd Microelectronics,test,1597683.0,矽格
+2025-06,3264,Ardentec,test,1136509.0,欣銓
+2025-06,2303,UMC,foundry,18823070.0,聯電
+2025-06,2330,TSMC,foundry,263708978.0,台積電
+2025-06,2449,King Yuan Electronics,test,2815411.0,京元電子
+2025-06,3711,ASE Technology Holding,osat,49512621.0,日月光投控
+2025-06,6257,Sigurd Microelectronics,test,1618665.0,矽格
+2025-07,3264,Ardentec,test,1160261.0,欣銓
+2025-07,2303,UMC,foundry,20040049.0,聯電
+2025-07,2330,TSMC,foundry,323165707.0,台積電
+2025-07,2449,King Yuan Electronics,test,2918332.0,京元電子
+2025-07,3711,ASE Technology Holding,osat,51542033.0,日月光投控
+2025-07,6257,Sigurd Microelectronics,test,1590738.0,矽格
+2025-08,3264,Ardentec,test,1224270.0,欣銓
+2025-08,2303,UMC,foundry,19159816.0,聯電
+2025-08,2330,TSMC,foundry,335771691.0,台積電
+2025-08,2449,King Yuan Electronics,test,3100894.0,京元電子
+2025-08,3711,ASE Technology Holding,osat,56465628.0,日月光投控
+2025-08,6257,Sigurd Microelectronics,test,1609013.0,矽格
+2025-09,3264,Ardentec,test,1208565.0,欣銓
+2025-09,2303,UMC,foundry,19927175.0,聯電
+2025-09,2330,TSMC,foundry,330980920.0,台積電
+2025-09,2449,King Yuan Electronics,test,3271304.0,京元電子
+2025-09,3711,ASE Technology Holding,osat,60561227.0,日月光投控
+2025-09,6257,Sigurd Microelectronics,test,1654245.0,矽格
+2025-10,3264,Ardentec,test,1256013.0,欣銓
+2025-10,2303,UMC,foundry,21294974.0,聯電
+2025-10,2330,TSMC,foundry,367473051.0,台積電
+2025-10,2449,King Yuan Electronics,test,3418823.0,京元電子
+2025-10,3711,ASE Technology Holding,osat,60231106.0,日月光投控
+2025-10,6257,Sigurd Microelectronics,test,1724348.0,矽格
+2025-11,3264,Ardentec,test,1236299.0,欣銓
+2025-11,2303,UMC,foundry,21233847.0,聯電
+2025-11,2330,TSMC,foundry,343613802.0,台積電
+2025-11,2449,King Yuan Electronics,test,3292565.0,京元電子
+2025-11,3711,ASE Technology Holding,osat,58819584.0,日月光投控
+2025-11,6257,Sigurd Microelectronics,test,1741965.0,矽格
+2025-12,3264,Ardentec,test,1306759.0,欣銓
+2025-12,2303,UMC,foundry,19280724.0,聯電
+2025-12,2330,TSMC,foundry,335003568.0,台積電
+2025-12,2449,King Yuan Electronics,test,3254264.0,京元電子
+2025-12,3711,ASE Technology Holding,osat,58864547.0,日月光投控
+2025-12,6257,Sigurd Microelectronics,test,1803348.0,矽格
+2026-01,3264,Ardentec,test,1300609.0,欣銓
+2026-01,2303,UMC,foundry,20862150.0,聯電
+2026-01,2330,TSMC,foundry,401255128.0,台積電
+2026-01,2449,King Yuan Electronics,test,3369542.0,京元電子
+2026-01,3711,ASE Technology Holding,osat,59988631.0,日月光投控
+2026-01,6257,Sigurd Microelectronics,test,1826693.0,矽格
+2026-02,3264,Ardentec,test,1261313.0,欣銓
+2026-02,2303,UMC,foundry,19345126.0,聯電
+2026-02,2330,TSMC,foundry,317656613.0,台積電
+2026-02,2449,King Yuan Electronics,test,3224527.0,京元電子
+2026-02,3711,ASE Technology Holding,osat,52096847.0,日月光投控
+2026-02,6257,Sigurd Microelectronics,test,1609154.0,矽格
+2026-03,3264,Ardentec,test,1421480.0,欣銓
+2026-03,2303,UMC,foundry,20830626.0,聯電
+2026-03,2330,TSMC,foundry,415191699.0,台積電
+2026-03,2449,King Yuan Electronics,test,3597874.0,京元電子
+2026-03,3711,ASE Technology Holding,osat,61576674.0,日月光投控
+2026-03,6257,Sigurd Microelectronics,test,1857929.0,矽格
+2026-04,3264,Ardentec,test,1463816.0,欣銓
+2026-04,2303,UMC,foundry,22663945.0,聯電
+2026-04,2330,TSMC,foundry,410725118.0,台積電
+2026-04,2449,King Yuan Electronics,test,3743018.0,京元電子
+2026-04,3711,ASE Technology Holding,osat,62247107.0,日月光投控
+2026-04,6257,Sigurd Microelectronics,test,1945727.0,矽格
+2026-05,3264,Ardentec,test,1517840.0,欣銓
+2026-05,2303,UMC,foundry,22943755.0,聯電
+2026-05,2330,TSMC,foundry,416975163.0,台積電
+2026-05,2449,King Yuan Electronics,test,3776927.0,京元電子
+2026-05,3711,ASE Technology Holding,osat,63033313.0,日月光投控
+2026-05,6257,Sigurd Microelectronics,test,1976452.0,矽格
+2026-06,3264,Ardentec,test,1552011.0,欣銓
+2026-06,2303,UMC,foundry,23124962.0,聯電
+2026-06,2330,TSMC,foundry,442679969.0,台積電
+2026-06,2449,King Yuan Electronics,test,3621671.0,京元電子
+2026-06,3711,ASE Technology Holding,osat,65783102.0,日月光投控
+2026-06,6257,Sigurd Microelectronics,test,1958518.0,矽格
