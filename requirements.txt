@@ -1,0 +1,13 @@
+# Primary research scripts — ate_primary_research.py, ate_hiring_check.py
+#
+#   pip install -r requirements.txt
+#
+# Python 3.8 or newer. Lower bounds are set where a version is genuinely
+# needed; anything newer works.
+
+requests>=2.28          # HTTP for MOPS, Census and Comtrade
+pandas>=1.5             # tidy tables, rolling averages, pivots
+lxml>=4.9               # HTML table parsing — pandas.read_html needs it for MOPS
+
+# Optional. Charts only; every CSV is written without it.
+matplotlib>=3.6
